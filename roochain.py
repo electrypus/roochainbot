@@ -1,7 +1,7 @@
 import praw
 
 # login info
-userAgent = 'roochainche2cker v0.1:for discovering broken links in the chain of switcharoos for r/switcharoo.'
+userAgent = 'roochainchecker v0.1:for discovering broken links in the chain of switcharoos for r/switcharoo.'
 usersName = 'example'
 usersPass = 'example'
 # The user that should be messaged in case the bot goes wrong
